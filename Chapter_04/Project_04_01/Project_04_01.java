@@ -1,4 +1,4 @@
-package chapter_02;
+package chapter_04;
 
 /**
  * PP 4.1 Complete the implementation of the LinkedStack<T> class by
@@ -7,7 +7,7 @@ package chapter_02;
  *
  * @author Sharaf Qeshta
  * */
-public class Project_02_01
+public class Project_04_01
 {
     public static void main(String[] args) {
         LinkedStack<String> linkedStack = new LinkedStack<>();
