@@ -6,7 +6,7 @@ package chapter_04;
  *
  * @author Sharaf Qeshta
  * */
-public class Project_02_03
+public class Project_04_03
 {
     // look at LinkedStackWithDummyHead.java
 }
